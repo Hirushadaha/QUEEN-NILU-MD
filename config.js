@@ -52,9 +52,9 @@ global.SESSION_ID = '' // PUT your session ID BY scan QR
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94767438882'
+global.OWNER_NUMBER = '94771026573'
 
-global.OWNER_NAME = 'Janiya_X'
+global.OWNER_NAME = 'hiruwa'
 
 global.OPENAI_API_KEY = "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"
 
@@ -63,9 +63,9 @@ global.OPENAI_API_KEY = "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"
 ⚙️ BOT  SETTINGS  ⚙️
 */
 
-global.BOT_NAME = 'ǫᴜᴇᴇɴ ɴɪʟᴜ'
+global.BOT_NAME = 'hiruwa bot'
  
-global.STICKER_NAME = '@Janiya 🤹‍♂️' //sticker
+global.STICKER_NAME = '@hiruwa 🤹‍♂️' //sticker
 
 global.LANG = 'EN' // Language (EN-  to english  ,  SI- to sinhala )
 
